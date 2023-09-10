@@ -9,15 +9,20 @@
     + ksuhatttt@gmail.com
  *  Discord: KseniyaSharshneva
  *  [github](https://github.com/KsushaSher)
-  ************
+
+
+  **************************
 ## About myself:
 I want to learn Frond-End Development in RSSchool!
-***************
+
+
+****************************
 ## Skills and Proficiency:
 * Adobe Photoshop 
 * AutoCAD
 * 3ds Max
-************
+
+*****************************
 ## Code example:
 ```
 <!DOCTYPE html>
@@ -31,10 +36,12 @@ alert(apples+oranges);
 
 </script>
 ```
-**************
+******************
 ## Courses:
 * RS Schools Course "JavaScript/Front-end. Stage 0" (in progress)
-* ***********
+
+
+*******************
 ## Languages:
   * Russian - Native
   * English - A1
