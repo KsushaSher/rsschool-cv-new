@@ -9,9 +9,9 @@
     + ksuhatttt@gmail.com
  *  Discord: KseniyaSharshneva
  *  [github](https://github.com/KsushaSher)
-
-
-  **************************
+  
+  
+**************************
 ## About myself:
 I want to learn Frond-End Development in RSSchool!
 
