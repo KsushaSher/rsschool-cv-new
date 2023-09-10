@@ -1,1 +1,1 @@
-# rsschool-cv-new
+https://KsushaSher.github.io/rsschool-cv-new/cv
