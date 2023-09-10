@@ -1,4 +1,7 @@
 # **KSENIYA SHARSHNEVA**
+
+![ava](./images/ava.png)
+
 ## Contact information:
  *  Phone:+375 29 1050959
  *  E-mail: 
