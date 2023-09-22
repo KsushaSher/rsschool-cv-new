@@ -1,0 +1,73 @@
+/* жирный и тонкий шрифт*/
+@font-face {
+  font-family: Roboto;
+  src: url("./assets/fonts/Roboto-Italic.ttf");
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url("./assets/fonts/Roboto-Italic.ttf");
+  font-weight: 300;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/*временно указали границы элементов*/
+.header main footer {
+  border: 1px solid red;
+}
+
+/*прижала т. о. footer к низу страницы*/
+.body {
+  margin: 0;
+  padding: 0;
+}
+
+/*тоже прижимаем footer к низу страницу но уже др способом*/
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/*свойства для conteiner */
+.conteiner {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+/*для nav*/
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  /*убираем стандартные маркеры*/
+  list-style: none;
+}
+
+/*плавный переход по ссылке*/
+html {
+  scroll-behavior: smooth;
+}
+
+/*добавл отступы между элементами списка*/
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  text-decoration: none;
+  font-size: 24px;
+  color: blueviolet;
+  transition: 0.3s;
+}
+
+/*при нажатиии меняет цвет*/
+.nav-link:hover {
+  padding: 0 20px;
+  line-height: 50px;
+  text-decoration: none;
+  font-size: 24px;
+  color: #666666;
+}
